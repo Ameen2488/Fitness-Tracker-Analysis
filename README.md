@@ -9,4 +9,6 @@
  * How could these trends apply to Bellabeat customers?
  * How could these trends help influence Bellabeat marketing strategy?
 
+### I will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
+
 
