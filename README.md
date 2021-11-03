@@ -54,3 +54,21 @@
 The dataset clearly is not the most comprehensive, so my analysis likely will not fully represent the population. The data provided will help identify trends in Bellabeat users specifically, which is what Bellabeat is looking for; however, the analysis would likely be more representative and insightful if used alongside another dataset and/or additional information collected by Bellabeat.
 
 ### After identifying the data' integrity, it is time to prepare the data for analysis.
+
+## 3. Process:
+
+### Tools: R(Statistical Programming Language), one to most comprehensive tools for data cleaning, transforming and visualizing. Different R Packages were used to conduct the aforementioned tasks 
+
+### Ensuring clean data:
+ * Check for missing values
+ * Check for duplicates
+ * Finding Primary Key
+ * Checking for Unique ID
+
+### Tranforming data: 
+ * Clean column names
+ * Convert date and time columns to appropriate type and format
+ * Create a weekday column
+ * Drop unnecessary columns
+ * Creating different dataframes to get data ready to be analysed
+
