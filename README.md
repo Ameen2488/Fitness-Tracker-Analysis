@@ -110,3 +110,33 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
  * The average hours of "Lack of sleep" group is 6.1 hours.
 
 
+### Answering Questions:
+
+### Q1: What is the users' sleep pattern among groups?
+
+![image](https://user-images.githubusercontent.com/90097839/140059951-7fe3b9e0-db3d-4a32-bbde-8367c9aa3607.png)
+
+ * Both group sleep the most on Sunday but their other weekdays have seen different sleep trend leading up to Sunday
+ * While "Enough sleep" group sleep the least at the middle of the week, users with lack of sleep deprives most sleep on Monday
+ * For users with enough sleep, they sleep the more on both saturday and sunday, but for users with lack of sleep, they only sleep more on Sunday
+
+### Users categorized in getting enough sleep: 
+
+![image](https://user-images.githubusercontent.com/90097839/140060909-f50c48cb-26a9-4b9c-934c-2ea64aa086e6.png)
+
+ * Users with lack of sleep have to go through longer hours of restlessness, which may be part of the reason.
+
+
+### Q2: What is the tracking feature usage trend?
+
+![image](https://user-images.githubusercontent.com/90097839/140061522-49a766bf-7a6b-4ae4-af8f-c62bc90c18d8.png)
+
+ * Most users in every group used sleep tracking feature
+ * A portion of user in each groups may be willing to try out other tracking features such as heartrate or weight
+ * Moderate intensity and high intensity users tend to measure their weight and heart rate also
+ * However, the sample is small and should be investigated with a larger scale to reach a conclusion
+
+
+### Q3: What is the trend in user daily usage?
+#### Number of day used by each groups
+
