@@ -72,3 +72,18 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
  * Drop unnecessary columns
  * Creating different dataframes to get data ready to be analysed
 
+## 4. Analyze:
+
+### User Activity data:
+
+![image](https://user-images.githubusercontent.com/90097839/140050271-d9b71fdd-55e6-4343-b084-e06b864043bd.png)
+
+### The number of users of each features are greatly different. Among 33 users participating, there are:
+  
+ * 72% (24 users) have tried sleep tracking
+ * 42% (14 users) have tried heartrate tracking
+ * Only 24% (8 users) have tried weight tracking
+ * The number of user each day ranges from 21 users in the last day to 33 users, with mean of 30     users
+ * The number of user participating starts to drop after 16 days with increasing rate. After 4 weeks, about 1/3 of users stopped using the tracker
+
+
