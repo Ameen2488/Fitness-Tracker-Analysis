@@ -171,3 +171,42 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
 
 #### Lightly active and inactive periods comparison among groups
 ##### Average lightly and inactive hours
+
+![image](https://user-images.githubusercontent.com/90097839/140063964-4ef6b482-c5de-4d61-8df5-9cacb6cd2e14.png)
+
+### Discussion:
+  
+ * There is abnormal amount of sedentary hours among low intensity users. This indicate the measured data might be inaccurate due to devices not working, or this group of user had to sit for too long and do not need to move throughout their day. They have very low activity time throughout the days for all types of active activities
+
+#### Inactive and lightly hour throughout days of week
+
+![image](https://user-images.githubusercontent.com/90097839/140064290-4386e8a9-a7e9-41ff-b081-2e1e4157000e.png)
+
+ * Surprisingly, High intensity group users also have higher sedentary minutes than moderate and light intensity groups. This is probably due to they actively track their activity more frequently than other groups.
+ * For others, they may neglect their tracking devices in cases when out of batteries or not tracker not working.
+
+#### Intensity among groups
+##### Intensity throughout days of week
+
+![image](https://user-images.githubusercontent.com/90097839/140064486-db8b135f-623f-448f-87e3-b7163f8e448c.png)
+
+### Discussion:
+  
+ * High intensity group: Intensity is high throughout
+ * Moderate intensity: They have high intensity but have inconsitent pattern between each day of week
+ * Light intensity: They have relatively high level of intensity at the end of week, and rest on sunday
+ * Low intensity: low intensity throughout the wee
+
+#### Intensity throughout the day
+##### Light and low intensity group
+
+![image](https://user-images.githubusercontent.com/90097839/140064687-df481185-58d5-4986-9d23-0f121c28400e.png)
+
+### Discuss:
+  
+ * Low intensity group: intensity throughout week is consistent, which tend to the value peaks at noon time
+* Light intensity group: on weekday, they are more active in the afternoon and evening, while on weekend, their most active period is at noon
+
+#### Moderate and High intensity groups
+
+
