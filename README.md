@@ -160,3 +160,14 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
  * Low intensity and light intensity group have very short active periods throughout their day
 
 #### Active minutes throughout days of week
+
+![image](https://user-images.githubusercontent.com/90097839/140063463-9ee97a70-38de-4eeb-9ed4-245df1a1000f.png)
+
+### Discussion:
+  
+ * High intensity group has consistent routine for their active minutes, they make sure that they spend more than an hour every day for active activities, and more active in the start and end of the week
+ * Moderate group has around 30 - 50 minutes of active minutes each day, with the lowest days are Sunday and Thrusday
+ * Low intensity group and Light intensity group have less than 20 minutes of active minutes each day
+
+#### Lightly active and inactive periods comparison among groups
+##### Average lightly and inactive hours
