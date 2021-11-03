@@ -87,3 +87,15 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
  * The number of user participating starts to drop after 16 days with increasing rate. After 4 weeks, about 1/3 of users stopped using the tracker
 
 
+### Grouping Users:
+
+![image](https://user-images.githubusercontent.com/90097839/140051154-5410d54c-4284-49b9-92cf-7a81ec88dd0d.png)
+
+### Discussion:
+  
+ * Low intensity users tend to have an average intensity per day less than 200
+ * Light intensity users tend to have an average intensity per day around 250
+ * Moderate intensity users tend to have an average intensity per day near 350
+ * High intensity users tend to have an average intensity around 400
+
+
