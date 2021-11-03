@@ -209,4 +209,50 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
 
 #### Moderate and High intensity groups
 
+![image](https://user-images.githubusercontent.com/90097839/140065381-e237d743-07b7-4da4-9934-138ffb41abde.png)
+
+### Discussion:
+  
+ * These 2 groups tend to have certain very active hour each day throughout the week
+* However, for moderate intensity group, there are different active periods between weekend and weekdays, in weekend they are more active at noon while on weekdays, their peak hours are the evening
+* The peak active hours are from 17:00 to 19:00
+
+## 5. Share:
+
+### 4 User group profile
+
+ * Low intensity users (Avg intensity per day < 200): These users are usually inactive throughout their day. Most intensity in a day comes from low intensity walking
+ * Light intensity users (Avg intensity per day around 250): These users have around 15 - 20 minutes of daily active minutes, most of which involves walking or running. They have some periods of exercise around the week, mainly afterwork or on weekend morning.
+ * Moderate intensity users (Avg intensity per day around 350): They perform about 30 - 50 active minutes a day , especially walking or running. Their habits are similar to light intensity users but with higher intensity, they tend to perform exercise afterwork and on weekend morning.
+ * High intensity users (Avg intensity per day around 400): They perform a lot of intense work out exercise, they have at least 1 hour of active minutes a day with slightly higher at the start and end of the week. They follow strict workout routines with exact hours for working out each day.
+
+### Tracking features usage trend:
+
+Only 42 % users use heartrate tracking and 24% users use weight tracking. For weight tracking, perhaps most users seem its too much effort to enter weight data manually and for heartrate, some people might see it as unnecessary.
+
+### Among groups:
+  
+ * Some users start to stop using their devices after 3 weeks.
+ * Moderate user and high intensity user may have more chance of tracking weight and heart rate.
+ * The churn rate in the sample are not different among user groups, which means a user who do not work out alot has the same chance of stop tracking as a user who exercise intensely everyday. However, the sample size is too small to confirm these claims and require further analysis.
+
+### Sleep trend
+
+ * A large proportion (37.5%) of the sample have average lack of sleep.
+ * Both groups tend to sleep the most on Sunday but with different trends throughout the week
+ * Lack of sleep users also witness higher amount of restlessness.
+
+## 6. Act:
+### Based on the findings in the analysis, I provide the following recommendations for the Bellabeat App and Membership Program:
+  
+### 1. Targetting: 
+Because user stickiness to use the tracking features among groups are not different, it is recommended that the user acquisition for the app should be targetted widely, including both people with already healthy fitness habits and people with high inactivity. However, the approach of the app should be different for each groups.
+
+### 2. Tailoring Message:
+  
+##### High intensity group: The app should aim to maintain their current good habit by acting as a reliable reminder for their daily workout period, and promote a wide variety of intense workout.
+##### Low intensity group: The app should aim to encourage these users to take small steps in their workout and exercise by acting as an encouraging friend. Eg. Alerting long inactivity period and encourage them to take a brisk walk or stretch their body.
+##### Moderate and light intensity groups: The app should aim to give them a push to help them become a high intensity user by acting as an encouraging coach. Eg. encourage them to increase the workout periods for 5 minutes that day or feature short intense exercises for them to add to their periods.
+ 1. For users with lack of sleep, the app should personalized feature posts for them improve sleep quality such as lowering stress and mindfulness habits.
+ 2. Because some users may only use 1 or 2 tracking features, the app should have posts emphasizing the benefits of tracking multiple areas of their health habit to improving overall wellbeing.
 
