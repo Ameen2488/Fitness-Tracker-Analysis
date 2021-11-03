@@ -250,9 +250,11 @@ Because user stickiness to use the tracking features among groups are not differ
 
 ### 2. Tailoring Message:
   
-##### High intensity group: The app should aim to maintain their current good habit by acting as a reliable reminder for their daily workout period, and promote a wide variety of intense workout.
-##### Low intensity group: The app should aim to encourage these users to take small steps in their workout and exercise by acting as an encouraging friend. Eg. Alerting long inactivity period and encourage them to take a brisk walk or stretch their body.
-##### Moderate and light intensity groups: The app should aim to give them a push to help them become a high intensity user by acting as an encouraging coach. Eg. encourage them to increase the workout periods for 5 minutes that day or feature short intense exercises for them to add to their periods.
+High intensity group: The app should aim to maintain their current good habit by acting as a reliable reminder for their daily workout period, and promote a wide variety of intense workout.
+
+Low intensity group: The app should aim to encourage these users to take small steps in their workout and exercise by acting as an encouraging friend. Eg. Alerting long inactivity period and encourage them to take a brisk walk or stretch their body.
+
+Moderate and light intensity groups: The app should aim to give them a push to help them become a high intensity user by acting as an encouraging coach. Eg. encourage them to increase the workout periods for 5 minutes that day or feature short intense exercises for them to add to their periods.
  1. For users with lack of sleep, the app should personalized feature posts for them improve sleep quality such as lowering stress and mindfulness habits.
  2. Because some users may only use 1 or 2 tracking features, the app should have posts emphasizing the benefits of tracking multiple areas of their health habit to improving overall wellbeing.
 
