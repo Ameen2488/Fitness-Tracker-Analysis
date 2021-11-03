@@ -99,3 +99,14 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
  * High intensity users tend to have an average intensity around 400
 
 
+### Sleep Data:
+
+#### 1. Lack of sleep: users with average sleep time less than 7 hours a day
+#### 2. Enough sleep: users with average sleep time from 7 hours or more a day
+
+#### In the sample, 
+ * 6 users have lack of sleep and 10 users have average enough sleep.
+ * The average hours of "Enough sleep" group is 7.6 hours.
+ * The average hours of "Lack of sleep" group is 6.1 hours.
+
+
