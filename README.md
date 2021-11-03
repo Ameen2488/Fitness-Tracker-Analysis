@@ -140,3 +140,23 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
 ### Q3: What is the trend in user daily usage?
 #### Number of day used by each groups
 
+![image](https://user-images.githubusercontent.com/90097839/140062356-959c3fc9-9ade-47ff-a12b-4219107dc309.png)
+
+
+### Discussion:
+  
+ * There are not much difference in the average usage days among groups
+ * Interestingly, even if the user have low or light intensity, they tend to stick with the tracking system as long as high int
+
+### Q4: What is the trend of users' activity?
+#### Active and Inactive periods in a day
+##### Average daily active minutes
+
+![image](https://user-images.githubusercontent.com/90097839/140062734-3d4043cf-7bef-4b6e-b68c-6321fea0802b.png)
+
+### Discussion:
+  
+ * High intensity group mainly performs active sessions in their active periods, while moderate intensity group has more equal amount of very active minutes and fairly active minutes
+ * Low intensity and light intensity group have very short active periods throughout their day
+
+#### Active minutes throughout days of week
