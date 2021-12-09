@@ -1,4 +1,4 @@
-# Fitness-Tracker-Analysis
+# Fitness-Tracker-Analysis @ Google Data Analyst Certificate CaseStudy Completed in R
 
 ## Purpose: 
 ### The goal of this project is to analyze FITBIT fitness data to discover opportunities for Bellabeat’s business. Specifically, I will analyze the consumer data to learn how consumers are using their devices, which will help guide Bellabeat’s marketing direction.
@@ -202,7 +202,7 @@ The dataset clearly is not the most comprehensive, so my analysis likely will no
 
 ![image](https://user-images.githubusercontent.com/90097839/140064687-df481185-58d5-4986-9d23-0f121c28400e.png)
 
-### Discuss:
+### Discussion:
   
  * Low intensity group: intensity throughout week is consistent, which tend to the value peaks at noon time
 * Light intensity group: on weekday, they are more active in the afternoon and evening, while on weekend, their most active period is at noon
